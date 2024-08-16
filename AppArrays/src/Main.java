@@ -21,13 +21,13 @@ public class Main {
 
 
         //Hacer doble bucle for/for
-
+        System.out.println(config[XTEST][CAMB]);
 
         //CLAVE: DESARROLLO
 
         //System.out.println(config[3][1]);
         //System.out.println(config[1][1]);
-        System.out.println(config[XPROD][CPASS]); //...
+        //System.out.println(config[XPROD][CPASS]); //...
 
 
     }
